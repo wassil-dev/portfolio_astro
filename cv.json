@@ -77,9 +77,9 @@
     },
     {
       "name": "SIG Service",
-      "position": "Junior Software Developer",
+      "position": "Software Developer",
       "location_type": "On site",
-      "location": "On site",
+      "location": "Algeria",
       "url": "https://www.sigservice-dz.com",
       "startDate": "2021-11-01",
       "endDate": "2022-03-01",
@@ -97,23 +97,44 @@
       ],
       "skills": [
         "Python",
-        "Django",
+        "Odoo",
         "SQL",
         "Git"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "name": "ELCS RESEARCH",
+      "position": "Software Developer Intern",
+      "url": "https://www.elcsresearch.com",
+      "location_type": "Hybrid",
+      "location": "Algeria",
+      "startDate": "2019-12-01",
+      "endDate": "2020-05-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
       ],
       "skills": [
+        "Python",
+        "Django",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Algérie Presse Service",
+      "position": "Software Developer Intern",
+      "url": "https://www.aps.dz",
+      "location_type": "Hybrid",
+      "location": "Algeria",
+      "startDate": "2018-06-01",
+      "endDate": "2018-10-01",
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "highlights": [
+        "Completed several client projects successfully"
+      ],
+      "skills": [
+        "Python",
         "HTML",
         "CSS"
       ]
