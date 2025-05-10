@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ouassil-dahimene.dev/sitemap-index.xml
