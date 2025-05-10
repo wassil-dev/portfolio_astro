@@ -76,13 +76,13 @@
       ]
     },
     {
-      "name": "Innovative Solutions",
+      "name": "SIG Service",
       "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "location_type": "On site",
+      "location": "On site",
+      "url": "https://www.sigservice-dz.com",
+      "startDate": "2021-11-01",
+      "endDate": "2022-03-01",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
