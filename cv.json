@@ -106,13 +106,21 @@
       "name": "ELCS RESEARCH",
       "position": "Software Developer Intern",
       "url": "https://www.elcsresearch.com",
-      "location_type": "Hybrid",
+      "location_type": "On site",
       "location": "Algeria",
       "startDate": "2019-12-01",
       "endDate": "2020-05-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
+      ],
+       "responsibilities": [
+        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
+      ],
+      "achievements": [
+        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
         "Python",
@@ -132,6 +140,14 @@
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
+      ],
+       "responsibilities": [
+        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
+      ],
+      "achievements": [
+        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
         "Python",
