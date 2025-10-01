@@ -30,51 +30,55 @@
   },
   "work": [
     {
-      "name": "Djezzy",
-      "position": "Data Analyst | Fraud Analyst",
-      "location": "Algeria",
-      "url": "https://djezzy.dz",
-      "startDate": "2022-06-22",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "location_type": "On site",
-      
-      "skills": [
-        "Python",
-        "Sql",
-        "Teradata",
-        "Pyspark",
-        "Hive",
-        "Mysql",
-        "Postgresql",
-        "Jupyter Notebook",
-        "DuckDb",
-        "Pandas",
-        "Numpy",
-        "Matplotlib",
-        "Scikit-learn",
-        "Django",
-        "FastAPI",
-        "Docker",
-        "Jupyter Notebook",
-        "Tableau",
-        "Airflow",
-        "Power BI",
-        "Excel",
-        "Git"
-      ]
-    },
+  "name": "Djezzy",
+  "position": "Data Analyst | Fraud Analyst",
+  "location": "Algeria",
+  "url": "https://djezzy.dz",
+  "startDate": "2022-06-22",
+  "endDate": null,
+  "summary": "Analyzing telecom data to detect fraud patterns, prevent revenue leakage, and ensure compliance. Building automated workflows, dashboards, and reports to strengthen fraud prevention and support business decision-making.",
+  "highlights": [
+    "Reduced SMS fraud cases by designing automated detection rules and alerting workflows.",
+    "Improved efficiency of fraud reporting by automating monthly analysis using Python and SQL.",
+    "Integrated multiple data sources (CDRs, SMS logs, blocking lists) into fraud monitoring systems."
+  ],
+  "responsibilities": [
+    "Monitored and analyzed SMS, voice, and data traffic to identify fraudulent activity such as bulk SMS abuse and SIMBox usage.",
+    "Designed and maintained automated data pipelines using Python, SQL, and big data tools (Hive, PySpark, DuckDB).",
+    "Created dashboards and fraud reports for management and regulators to support decision-making.",
+    "Collaborated with fraud, IT, and operations teams to implement rules, alerts, and prevention measures.",
+    "Investigated suspicious MSISDNs and coordinated with operations to block fraudulent activity."
+  ],
+  "achievements": [
+    "Developed automated fraud detection processes that improved fraud response time.",
+    "Delivered comprehensive fraud analysis reports that enhanced transparency and compliance.",
+    "Optimized fraud monitoring coverage by combining telecom data sources into unified views."
+  ],
+  "location_type": "On site",
+  "skills": [
+    "Python",
+    "SQL",
+    "Teradata",
+    "PySpark",
+    "Hive",
+    "MySQL",
+    "PostgreSQL",
+    "DuckDB",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Scikit-learn",
+    "Airflow",
+    "Power BI",
+    "Excel",
+    "Tableau",
+    "Docker",
+    "Git",
+    "Jupyter Notebook",
+    "Django",
+    "FastAPI"
+  ]
+},
     {
       "name": "SIG Service",
       "position": "Software Developer",
